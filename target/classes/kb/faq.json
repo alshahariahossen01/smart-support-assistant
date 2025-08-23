@@ -1,0 +1,24 @@
+[
+  {
+    "id": "faq_shipping_time",
+    "question": "What are your shipping times?",
+    "answer": "Standard shipping takes 3-5 business days. Expedited options are available at checkout."
+  },
+  {
+    "id": "faq_refund_policy",
+    "question": "What is your refund policy?",
+    "answer": "You can request a refund within 30 days of delivery if the product is unused and in original packaging."
+  },
+  {
+    "id": "faq_return_process",
+    "question": "How do I start a return?",
+    "answer": "Contact support with your order number. We will provide a prepaid label and instructions."
+  },
+  {
+    "id": "faq_contact",
+    "question": "How can I contact support?",
+    "answer": "Email support@example.com or call +1-555-0100 Mon-Fri 9am-6pm."
+  }
+]
+
+
